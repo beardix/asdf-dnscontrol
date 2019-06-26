@@ -5,7 +5,7 @@
 ## Install
 
 ```
-asdf plugin-add aws-vault https://github.com/beardix/asdf-dnscontrol.git
+asdf plugin-add dnscontrol https://github.com/beardix/asdf-dnscontrol.git
 ```
 
 ## Use
