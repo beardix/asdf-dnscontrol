@@ -1,6 +1,6 @@
 # asdf-dnscontrol
 
-[![Build Status](https://dev.azure.com/beardix/asdf/_apis/build/status/beardix.asdf-dnscontrol?branchName=master)](https://dev.azure.com/beardix/asdf/_build/latest?definitionId=13&branchName=master)
+![](https://github.com/beardix/asdf-dnscontrol/workflows/ci/badge.svg)
 
 [DNSControl](https://github.com/StackExchange/dnscontrol) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
